@@ -1,4 +1,4 @@
-# CAR RACING GAME 
+# CAR RACING GAME MADE WITH JAVASCRIPT
 
 It is a car racing game purely made with HTML, CSS, JAVASCRIPT...
 
